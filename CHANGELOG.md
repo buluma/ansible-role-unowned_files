@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-unowned_files/tree/HEAD)
+## [0.1.1](https://github.com/buluma/ansible-role-unowned_files/tree/0.1.1) (2022-07-08)
 
-[Full Changelog](https://github.com/buluma/ansible-role-unowned_files/compare/0.1.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-unowned_files/compare/0.1.0...0.1.1)
 
 **Closed issues:**
 
