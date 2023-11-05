@@ -2,9 +2,9 @@
 
 Install and configure unowned_files on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-unowned_files/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-unowned_files/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-unowned_files/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-unowned_files)|[![quality](https://img.shields.io/ansible/quality/58796)](https://galaxy.ansible.com/buluma/unowned_files)|[![downloads](https://img.shields.io/ansible/role/d/58796)](https://galaxy.ansible.com/buluma/unowned_files)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-unowned_files/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-unowned_files/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-unowned_files/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-unowned_files)|[![downloads](https://img.shields.io/ansible/role/d/4869)](https://galaxy.ansible.com/buluma/unowned_files)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
