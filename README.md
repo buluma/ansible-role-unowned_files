@@ -1,10 +1,10 @@
-# [Ansible role unowned_files](#unowned_files)
+# Ansible role [unowned_files](https://galaxy.ansible.com/ui/standalone/roles/buluma/unowned_files/documentation)
 
 Install and configure unowned_files on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-unowned_files/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-unowned_files/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-unowned_files/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-unowned_files/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-unowned_files.svg)](https://github.com/buluma/ansible-role-unowned_files/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/unowned_files)](https://galaxy.ansible.com/ui/standalone/roles/buluma/unowned_files/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -111,13 +111,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-unowned_files/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-unowned_files/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
