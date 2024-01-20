@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#17](https://github.com/buluma/ansible-role-unowned_files/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#16](https://github.com/buluma/ansible-role-unowned_files/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#13](https://github.com/buluma/ansible-role-unowned_files/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 
