@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ansible/ansible-lint from 24.10.0 to 24.12.0 [\#27](https://github.com/buluma/ansible-role-unowned_files/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.2 to 24.10.0 [\#26](https://github.com/buluma/ansible-role-unowned_files/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.0 to 24.9.2 [\#25](https://github.com/buluma/ansible-role-unowned_files/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#24](https://github.com/buluma/ansible-role-unowned_files/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -20,6 +21,7 @@
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#20](https://github.com/buluma/ansible-role-unowned_files/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#19](https://github.com/buluma/ansible-role-unowned_files/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#18](https://github.com/buluma/ansible-role-unowned_files/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#17](https://github.com/buluma/ansible-role-unowned_files/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [0.3.0](https://github.com/buluma/ansible-role-unowned_files/tree/0.3.0) (2024-01-20)
 
@@ -27,7 +29,6 @@
 
 **Merged pull requests:**
 
-- Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#17](https://github.com/buluma/ansible-role-unowned_files/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#16](https://github.com/buluma/ansible-role-unowned_files/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#13](https://github.com/buluma/ansible-role-unowned_files/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 
