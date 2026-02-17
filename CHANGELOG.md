@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-unowned_files/compare/24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#11](https://github.com/buluma/ansible-role-unowned_files/issues/11)
+- rebuild action [\#10](https://github.com/buluma/ansible-role-unowned_files/issues/10)
+
 **Merged pull requests:**
 
 - Bump ansible/ansible-lint from 24.12.2 to 25.1.0 [\#30](https://github.com/buluma/ansible-role-unowned_files/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
