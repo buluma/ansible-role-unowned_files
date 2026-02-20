@@ -16,8 +16,7 @@
     path: "{{ item.path }}"
     state: absent
   when:
-    - item.pw_name | length == 0 or
-      item.gr_name | length == 0
+    - item.pw_name | length == 0 or item.gr_name | length == 0
     - unowned_files_delete
   loop: "{{ unowned_files_find_files.files }}"
   loop_control:
