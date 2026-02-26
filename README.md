@@ -60,7 +60,7 @@ unowned_files_default_group: nodody
 
 # A list of paths to search
 unowned_files_directories:
-- /
+  - /
 ```
 
 ## [Requirements](#requirements)
