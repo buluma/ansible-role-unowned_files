@@ -11,6 +11,7 @@
 
 **Merged pull requests:**
 
+- Bump docker/setup-buildx-action from 3 to 4 [\#32](https://github.com/buluma/ansible-role-unowned_files/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.2 to 25.1.0 [\#30](https://github.com/buluma/ansible-role-unowned_files/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.1 to 24.12.2 [\#29](https://github.com/buluma/ansible-role-unowned_files/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.0 to 24.12.1 [\#28](https://github.com/buluma/ansible-role-unowned_files/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
